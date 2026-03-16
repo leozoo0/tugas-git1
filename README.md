@@ -1,4 +1,4 @@
-# Praktikum Distribusi
+# PRAKTIKUM SISTEM TERDISTRIBUSI DAN TERDESENTRALISASI
 
-Nama: Hafidza Nur Afifah  
-Repository untuk tugas praktikum.
+Nama: Hafidza N. A.
+Contoh kelola Repository sendiri untuk tugas praktikum
